@@ -1,0 +1,31 @@
+_repo: Theory-and-Practice-Applied-to-the-Cultivation-of-the-Cucumber-in-the-Winter-SeasonTo-Which-I__32818
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32818-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moore, Thomas
+    birthdate: 1821
+    deathdate: 1887
+    gutenberg_agent_id: '36062'
+    url: http://www.gutenberg.org/2009/agents/36062
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Moore_%28botanist%29
+description: ''
+gutenberg_issued: '2010-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32818'
+  lccn: '11025624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Cucumbers'
+title: 'Theory and Practice, Applied to the Cultivation of the Cucumber in the Winter
+  Season
+
+  To Which Is Added a Chapter on Melons'
+url: http://www.gutenberg.org/ebooks/32818
